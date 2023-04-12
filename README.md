@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MishayNaidoo
-- 👀 I’m interested in building chessboards
-- 🌱 I’m currently learning how to build chessboards
-- 💞️ I’m looking to collaborate on the chessboard
+- 👀 I’m interested in building bird nests
+- 🌱 I’m currently learning how to build bird nests
+- 💞️ I’m looking to collaborate on the bird's nest
 - 📫 How to reach me: linkedin
 
 <!---
